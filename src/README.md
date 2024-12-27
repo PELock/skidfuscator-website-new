@@ -94,7 +94,7 @@ As of right now, the following transformers are available in Skidfuscator:
 | Mangled Jump Obfuscation      | ❌           | ❌                 | ❌                      | ✅                       |
 | Exception Jump Obfuscation    | ❌           | ✅                 | ✅                      | ✅                       |
 | String Encryption             | ✅           | ✅                 | ✅                      | ✅                       |
-| Polymorphic String Encryption | ❌           | ❌                 | ❌                      | ✅                       |
+| Polymorphic String Encryption | ✅           | ❌                 | ❌                      | ✅                       |
 | Constant Encryption           | ✅           | ✅                 | ✅                      | ✅                       |
 | Method Inlining               | ❌           | ❌                 | ❌                      | SoonTM                  |
 | Method Outlining              | ❌           | ❌                 | ❌                      | ✅                       |
@@ -106,6 +106,8 @@ As of right now, the following transformers are available in Skidfuscator:
 | Method Parameter Obfuscation  | ❌           | ✅                 | ✅                      | ✅                       |
 | Native Driver Obfuscation     | ❌           | ❌                 | ❌                      | ✅                       |
 | Crasher Obfuscation           | ❌           | ❌                 | ❌                      | ✅                       |
+| Floating Point Obfuscation    | ✅           | ❌                 | ❌                      | ❌                       |
+
 
 # Examples
 
